@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "442877474550",
+    "project_id": "auth-with-firebase-adba6",
+    "storage_bucket": "auth-with-firebase-adba6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442877474550:android:be6b8ac6969177f19eded7",
+        "android_client_info": {
+          "package_name": "com.redux"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442877474550-8fdfrbevt9urtmsge1pa4dms2jjp4uq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMahFwetv50dWoPi45vRS3ysYjbv4_8oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442877474550-8fdfrbevt9urtmsge1pa4dms2jjp4uq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
